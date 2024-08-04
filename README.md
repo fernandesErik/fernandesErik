@@ -1,11 +1,9 @@
-## Olá! Sou Erik Fernanes
+## Olá! Eu sou o Erik Fernandes
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandesErik&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesErik&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+
+
+
+ ![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandesErik&show_icons=true&theme=tokyonight)
 
  ## Tecnologias que eu uso no meu dia
  
@@ -21,4 +19,3 @@
   
 </div><br/>
 🍃🍃🍃.
-
