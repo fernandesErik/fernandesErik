@@ -1,7 +1,10 @@
 ## Olá! 👋 Sou Erik Fernandes
-## 🎓 Estudante de Sistemas de Informação na UFVJM
-## 💻 Apaixonado por desenvolvimento de software e tecnologia
-## 🤝 Experiência em RH e integração de equipes na Next Step, Empresa Júnior
+
+🎓 Estudante de Sistemas de Informação na UFVJM
+
+💻 Apaixonado por desenvolvimento de software e tecnologia
+
+ 🤝 Experiência em RH e integração de equipes na Next Step, Empresa Júnior
 
 
 
