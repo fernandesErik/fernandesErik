@@ -9,7 +9,7 @@
 
 
 
- ![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandesErik&show_icons=true&theme=tokyonight)
+![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandesErik&show_icons=true&theme=tokyonight&cache_seconds=60)
 
  ## 🛠️ Minhas Habilidades
  
